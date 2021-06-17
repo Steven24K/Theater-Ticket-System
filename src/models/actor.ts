@@ -1,0 +1,1 @@
+export interface actor {Id: number; Name: string; Password: string; DateOfBirth: string; Bio: string; }

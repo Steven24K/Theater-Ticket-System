@@ -1,0 +1,1 @@
+export interface discount_code {Id: number; Code: string; Expiration_Date: string; Discount: number; }

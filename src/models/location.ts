@@ -1,0 +1,1 @@
+export interface location {Id: number; Name: string; Capacity: number; Adress: string; PostalCode: string; City: string; GMapLink: string; }

@@ -1,0 +1,1 @@
+export interface date_and_time {Id: number; Date: string; Time: string; }

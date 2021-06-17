@@ -1,0 +1,1 @@
+export interface theater_show {Id: number; Title: string; Description: string; Price: number; image_url: string; }

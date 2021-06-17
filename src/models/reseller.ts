@@ -1,0 +1,1 @@
+export interface reseller {Id: number; Name: string; Password: string; }

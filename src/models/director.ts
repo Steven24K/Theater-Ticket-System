@@ -1,0 +1,1 @@
+export interface director {Id: number; Name: string; Password: string; DateOfBirth: string; Bio: string; }

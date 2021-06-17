@@ -1,0 +1,1 @@
+export interface admin {Id: number; Name: string; Password: string; }
